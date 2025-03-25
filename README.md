@@ -15,17 +15,39 @@ Keyboard Navigation	Make sure you can tab through buttons and links.
 Color Contrast	Ensure text is readable even for color-blind users.	Use  contrast-ratio.com on real examples.
 
 Responsive Design for Mobile	Ensure zooming, readable text, and accessible touch targets on small screens.	Use DevTools to show mobile view. Demonstrate how small buttons are hard to tap.
-____Tips for accessibility : 
-Use viewport meta tag properly.
+____
+Tips for accessibility : 
+1.Use viewport meta tag properly.
 
-Make sure buttons and links are large enough (48x48px recommended).
+3.Make sure buttons and links are large enough (48x48px recommended).
 
-Use accessible form labels and inputs (<label for="name">Name</label>).
+4.Use accessible form labels and inputs (<label for="name">Name</label>).
 
-Avoid hover-only interactions — mobile users can’t hover!
 
 6. Use Descriptive Links
 Avoid: <a href="#">Click here</a>
 Better: <a href="/apply">Apply for the program</a>
 Why: Screen reader users often navigate by links only — unclear links confuse them.
+
+7. Headings Should Be Hierarchical
+Use <h1> to <h6> in logical order — never skip levels (e.g., don’t jump from <h1> to <h4>).
+
+8.Use only one <h1> per page.
+
+Helps users scan content more easily and improves SEO.
+
+9.<table>
+  <thead>
+    <tr><th scope="col">Name</th><th scope="col">Age</th></tr>
+  </thead>
+  <tbody>
+    <tr><td>Alice</td><td>24</td></tr>
+  </tbody>
+</table>
+Use scope="col" or scope="row" in <th> tags to help screen readers.
+
+10.7. Don’t Rely on Hover Effects
+Mobile devices don’t support hover
+
+Always provide clickable alternatives.
 ______________-
