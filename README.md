@@ -4,6 +4,16 @@
 Know someone who wears glasses or has dyslexia?
 Have you ever used your phone in bright sunlight and struggled to see the screen?
 
+some people has : 
+Cognitive Impairments
+Learning Disabilities (ADHD, dyslexia)
+Mental Illnesses
+General difficulties with memory and understanding
+
+Hearing Impairments
+Partial hearing loss
+Complete hearing loss
+
 ____________
 Semantic HTML	:
 Use correct tags like <nav>, <main>, <section> instead of <div> for everything. Helps screen readers.	
