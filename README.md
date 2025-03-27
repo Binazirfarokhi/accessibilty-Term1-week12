@@ -1,4 +1,10 @@
 # accessibilty-Term1-week12
+event 
+https://vancouver.websummit.com/volunteers/
+linkedin ? follow and learn 
+https://www.linkedin.com/feed/update/urn:li:activity:7308236409297874944
+project 1. 
+watch the linkedin video ? what is your insight, ? what did you get out of that video? 
 
 “Accessibility in web design is like building a ramp next to the stairs — it helps everyone access the same place, just in different ways.”
 Know someone who wears glasses or has dyslexia?
@@ -6,7 +12,7 @@ Have you ever used your phone in bright sunlight and struggled to see the screen
 
 some people has : 
 Cognitive Impairments
-Learning Disabilities (ADHD, dyslexia)
+Learning Disabilities (ADHD, dyslexia)dis lex ci ya 
 Mental Illnesses
 General difficulties with memory and understanding
 
