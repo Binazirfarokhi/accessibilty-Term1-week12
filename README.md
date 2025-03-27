@@ -61,6 +61,8 @@ Use scope="col" or scope="row" in <th> tags to help screen readers.
 ----------
 screen reader for chrome and open the tools and try to use it and then you will turn it off
 ----------
+
+  introduce to dom : there is a video that Tomoko explain how to turn on and turn off the menu,
 10.7. Don’t Rely on Hover Effects
 Mobile devices don’t support hover
 
