@@ -2,6 +2,8 @@
 event 
 https://vancouver.websummit.com/volunteers/
 linkedin ? follow and learn 
+https://youtu.be/GqE8rXB__5M
+
 https://www.linkedin.com/feed/update/urn:li:activity:7308236409297874944
 project 1. 
 watch the linkedin video ? what is your insight, ? what did you get out of that video? 
