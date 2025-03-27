@@ -67,7 +67,9 @@ Helps users scan content more easily and improves SEO.
 </table>
 Use scope="col" or scope="row" in <th> tags to help screen readers.
 ----------
-screen reader for chrome and open the tools and try to use it and then you will turn it off
+screen reader for chrome and open the tools and try to use it and then you will turn it off follow this link : 
+  https://chromewebstore.google.com/detail/screen-reader-for-google/nddfhonnmhcldcbmhbdldfpkbfpgjoeh?hl=en
+  
 ----------
 
   introduce to dom : there is a video that Tomoko explain how to turn on and turn off the menu,
