@@ -14,6 +14,9 @@ Hearing Impairments
 Partial hearing loss
 Complete hearing loss
 
+straw - test 
+
+
 ____________
 Semantic HTML	:
 Use correct tags like <nav>, <main>, <section> instead of <div> for everything. Helps screen readers.	
@@ -55,7 +58,9 @@ Helps users scan content more easily and improves SEO.
   </tbody>
 </table>
 Use scope="col" or scope="row" in <th> tags to help screen readers.
-
+----------
+screen reader for chrome and open the tools and try to use it and then you will turn it off
+----------
 10.7. Don’t Rely on Hover Effects
 Mobile devices don’t support hover
 
